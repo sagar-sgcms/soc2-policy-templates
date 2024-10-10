@@ -1,4 +1,4 @@
-# ACME Anvil Corporation Compliance Program
+# SGCMS Compliance Program
 
 High-level TODO created by [comply](https://github.com/strongdm/comply)
 
